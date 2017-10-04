@@ -1,0 +1,10 @@
+C:\Users\УважановЕ.CORP\source\repos\DateTimeChecked\DateTimeChecked\bin\Debug\DateTimeChecked.exe.config
+C:\Users\УважановЕ.CORP\source\repos\DateTimeChecked\DateTimeChecked\bin\Debug\DateTimeChecked.exe
+C:\Users\УважановЕ.CORP\source\repos\DateTimeChecked\DateTimeChecked\bin\Debug\DateTimeChecked.pdb
+C:\Users\УважановЕ.CORP\source\repos\DateTimeChecked\DateTimeChecked\obj\Debug\DateTimeChecked.csprojResolveAssemblyReference.cache
+C:\Users\УважановЕ.CORP\source\repos\DateTimeChecked\DateTimeChecked\obj\Debug\DateTimeChecked.Properties.Resources.resources
+C:\Users\УважановЕ.CORP\source\repos\DateTimeChecked\DateTimeChecked\obj\Debug\DateTimeChecked.csproj.GenerateResource.Cache
+C:\Users\УважановЕ.CORP\source\repos\DateTimeChecked\DateTimeChecked\obj\Debug\DateTimeChecked.csproj.CoreCompileInputs.cache
+C:\Users\УважановЕ.CORP\source\repos\DateTimeChecked\DateTimeChecked\obj\Debug\DateTimeChecked.exe
+C:\Users\УважановЕ.CORP\source\repos\DateTimeChecked\DateTimeChecked\obj\Debug\DateTimeChecked.pdb
+C:\Users\УважановЕ.CORP\source\repos\DateTimeChecked\DateTimeChecked\obj\Debug\DateTimeChecked.MyMonthCalendarForm.resources
